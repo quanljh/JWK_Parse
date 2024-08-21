@@ -1,0 +1,10 @@
+[package]
+name = "JWK_Parse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+json = "0.12.4"
+pem = "3.0.4"
+rsa = "0.9.6"
