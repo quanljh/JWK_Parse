@@ -1,5 +1,5 @@
 [package]
-name = "JWK_Parse"
+name = "rsa-jwk"
 version = "0.1.0"
 edition = "2021"
 
